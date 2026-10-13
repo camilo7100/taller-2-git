@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
+# Publicado el repositorio en GitHub
 # cambio en rama camilo-viz
 
 app = dash.Dash(
